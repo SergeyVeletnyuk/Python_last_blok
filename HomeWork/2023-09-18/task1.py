@@ -8,9 +8,3 @@ while number:
     number = number // 16
 
 print('0x' + res)
-
-
-
-#
-#
-# print(f'Собственная функция self_hex -> {self_hex(num)}')
