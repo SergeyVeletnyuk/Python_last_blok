@@ -14,4 +14,4 @@ def group_rename_files(new_name: str, ext_renamed: str, ext_new: str, saved_rang
 
 
 if __name__ == '__main__':
-    group_rename_files("task", ".pdf", ".txt", (1, 3))
+    group_rename_files("task", ".txt", ".pdf", (1, 3))
